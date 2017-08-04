@@ -21,7 +21,7 @@ function checkPassword() {
          document.getElementById("results").innerHTML = "not secure"
         }
 
-  } else 
-    document.getElementById("results").innerHTML = "secure"
+  }     else 
+         document.getElementById("results").innerHTML = "secure"
 
 }
